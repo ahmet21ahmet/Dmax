@@ -2175,6 +2175,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_2578
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_257880&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8109ab90-854a-4b85-b538-2292000c2431.jpg" group-title="Annesinin Bir Tanesi",Annesinin Bir Tanesi - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_257879&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d377684f-8e81-4fd7-95e9-72d36834c75c.jpg" group-title="Aramızdaki Katil",Aramızdaki Katil - 1. Sezon 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_606178&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d377684f-8e81-4fd7-95e9-72d36834c75c.jpg" group-title="Aramızdaki Katil",Aramızdaki Katil - 1. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_606177&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d377684f-8e81-4fd7-95e9-72d36834c75c.jpg" group-title="Aramızdaki Katil",Aramızdaki Katil - 1. Sezon 2. Bölüm
@@ -11813,8 +11815,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_4920
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_492046&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a10932ff-79bc-40f6-93a8-b7d49f6e592b.jpg" group-title="People Dergisi Araştırıyor",People Dergisi Araştırıyor - 7. Sezon 5. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_492045&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a10932ff-79bc-40f6-93a8-b7d49f6e592b.jpg" group-title="People Dergisi Araştırıyor",People Dergisi Araştırıyor - 7. Sezon 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_492044&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a10932ff-79bc-40f6-93a8-b7d49f6e592b.jpg" group-title="People Dergisi Araştırıyor",People Dergisi Araştırıyor - 7. Sezon 3. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_492043&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a10932ff-79bc-40f6-93a8-b7d49f6e592b.jpg" group-title="People Dergisi Araştırıyor",People Dergisi Araştırıyor - 7. Sezon 2. Bölüm
