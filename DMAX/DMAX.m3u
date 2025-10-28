@@ -3115,8 +3115,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_3020
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_3020699&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/99667727-104b-4691-b025-924d4e4e5af7.jpg" group-title="BİLİNMEYENE YOLCULUK: GELECEĞE DÖNÜŞ",BİLİNMEYENE YOLCULUK: GELECEĞE DÖNÜŞ - 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_302068&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/99667727-104b-4691-b025-924d4e4e5af7.jpg" group-title="BİLİNMEYENE YOLCULUK: GELECEĞE DÖNÜŞ",BİLİNMEYENE YOLCULUK: GELECEĞE DÖNÜŞ - 1. Sezon 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_302067&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/a1b6ff9b-6bd0-4591-b8d8-9dfdce16742d.jpg" group-title="BİLİNMEYENE YOLCULUK: MEGALODON",BİLİNMEYENE YOLCULUK: MEGALODON - BİLİNMEYENE YOLCULUK: MEGALODON ÖZEL BÖLÜM
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_266736&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/5d32afd3-f65d-46a9-8b4a-bef09402be05.jpg" group-title="BİLİNMEYENE YOLCULUK: MISIR",BİLİNMEYENE YOLCULUK: MISIR - ÖZEL BÖLÜM
@@ -5687,7 +5685,9 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_4468
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_446839&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/d8e38111-f697-4ebb-b025-2fa2e7a610ac.jpg" group-title="GÜMRÜK KONTROL: İSVEÇ",GÜMRÜK KONTROL: İSVEÇ - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_446838&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9c4111d8-2c64-4e6e-b3bf-dd51274f93c1.png" group-title="GÜMRÜK MUHAFAZA TÜRKİYE",GÜMRÜK MUHAFAZA TÜRKİYE - 14. Bölüm
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9c4111d8-2c64-4e6e-b3bf-dd51274f93c1.png" group-title="GÜMRÜK MUHAFAZA TÜRKİYE",GÜMRÜK MUHAFAZA TÜRKİYE - Yasaklı Madde, Oyuncaklar | 15. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_624558&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9c4111d8-2c64-4e6e-b3bf-dd51274f93c1.png" group-title="GÜMRÜK MUHAFAZA TÜRKİYE",GÜMRÜK MUHAFAZA TÜRKİYE - Abiye Elbiseler, Elektronik Sigara | 14. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_624557&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9c4111d8-2c64-4e6e-b3bf-dd51274f93c1.png" group-title="GÜMRÜK MUHAFAZA TÜRKİYE",GÜMRÜK MUHAFAZA TÜRKİYE - Ejderha Yumurtası | 13. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_24556&SecretKey=NtvApiSecret2014*
@@ -9069,6 +9069,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_4234
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_423455&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8b74bc9a-4dd3-406c-80f8-b9580e1ff8f5.jpg" group-title="MÜZAYEDE EVİNDE NELER OLUYOR",MÜZAYEDE EVİNDE NELER OLUYOR - 1. Sezon 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_423454&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/8b74bc9a-4dd3-406c-80f8-b9580e1ff8f5.jpg" group-title="MÜZAYEDE EVİNDE NELER OLUYOR",MÜZAYEDE EVİNDE NELER OLUYOR - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_423453&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c90392dd-6f60-4fcd-bead-5b9443332188.jpg" group-title="MÜZEDEKİ GİZEM",MÜZEDEKİ GİZEM - 20. Sezon 5. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_251220&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/c90392dd-6f60-4fcd-bead-5b9443332188.jpg" group-title="MÜZEDEKİ GİZEM",MÜZEDEKİ GİZEM - 20. Sezon 4. Bölüm
