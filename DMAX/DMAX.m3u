@@ -2673,6 +2673,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_2885
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_288546&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b456261b-5eca-4779-b3c3-207a32d19e65.jpg" group-title="BEN BUNU YERİM!",BEN BUNU YERİM! - 3. Sezon 14. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_232851&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b456261b-5eca-4779-b3c3-207a32d19e65.jpg" group-title="BEN BUNU YERİM!",BEN BUNU YERİM! - 3. Sezon 13. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_232850&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b456261b-5eca-4779-b3c3-207a32d19e65.jpg" group-title="BEN BUNU YERİM!",BEN BUNU YERİM! - 3. Sezon 12. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_232849&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b456261b-5eca-4779-b3c3-207a32d19e65.jpg" group-title="BEN BUNU YERİM!",BEN BUNU YERİM! - 3. Sezon 11. Bölüm
@@ -3537,8 +3539,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_1481
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_148111&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b671a2e3-e33a-49cc-98ea-1f6e64c8f9b2.jpg" group-title="ÇİFTE KURTULUŞ",ÇİFTE KURTULUŞ - 5. Sezon 27. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_145693&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b671a2e3-e33a-49cc-98ea-1f6e64c8f9b2.jpg" group-title="ÇİFTE KURTULUŞ",ÇİFTE KURTULUŞ - 5. Sezon 26. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_144003&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b671a2e3-e33a-49cc-98ea-1f6e64c8f9b2.jpg" group-title="ÇİFTE KURTULUŞ",ÇİFTE KURTULUŞ - 5. Sezon 25. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_144002&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/b671a2e3-e33a-49cc-98ea-1f6e64c8f9b2.jpg" group-title="ÇİFTE KURTULUŞ",ÇİFTE KURTULUŞ - 5. Sezon 24. Bölüm
@@ -8101,8 +8101,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_2585
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_258592&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6e7b3c93-dc83-4885-bb1b-5a1397fff500.jpg" group-title="KIRSALIN USTALARI",KIRSALIN USTALARI - 6. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_258591&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6e7b3c93-dc83-4885-bb1b-5a1397fff500.jpg" group-title="KIRSALIN USTALARI",KIRSALIN USTALARI - 5. Sezon 13. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_258590&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6e7b3c93-dc83-4885-bb1b-5a1397fff500.jpg" group-title="KIRSALIN USTALARI",KIRSALIN USTALARI - 5. Sezon 12. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_258589&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/6e7b3c93-dc83-4885-bb1b-5a1397fff500.jpg" group-title="KIRSALIN USTALARI",KIRSALIN USTALARI - 5. Sezon 11. Bölüm
@@ -8867,6 +8865,10 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_3131
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_390213&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/1101e5fb-cf7e-4f49-9500-2e66674c4a52.jpg" group-title="MISIR'IN MEZARLARI: BÜYÜK GÖREV",MISIR'IN MEZARLARI: BÜYÜK GÖREV - 1. Sezon 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_390212&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/15f7763e-2299-4ed1-b842-0cb0b8ef25b3.jpg" group-title="MİLYARDERLERİN YÜKSELİŞİ",MİLYARDERLERİN YÜKSELİŞİ - 1. Sezon 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_447362&SecretKey=NtvApiSecret2014*
+#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/15f7763e-2299-4ed1-b842-0cb0b8ef25b3.jpg" group-title="MİLYARDERLERİN YÜKSELİŞİ",MİLYARDERLERİN YÜKSELİŞİ - 1. Sezon 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_447361&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9e07eab1-f648-4ddd-b94e-3dfc7419b8e5.jpg" group-title="MİLYON DOLARLIK ARABALAR",MİLYON DOLARLIK ARABALAR - 1. Sezon 6. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_382192&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/9e07eab1-f648-4ddd-b94e-3dfc7419b8e5.jpg" group-title="MİLYON DOLARLIK ARABALAR",MİLYON DOLARLIK ARABALAR - 1. Sezon 5. Bölüm
@@ -12863,10 +12865,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_2421
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_233548&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/190326d7-4b0e-4931-b5c5-4d72c8c43b1f.jpg" group-title="YOLDA NE YİYORUZ?",YOLDA NE YİYORUZ? - 27. Sezon 11. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_233548&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/190326d7-4b0e-4931-b5c5-4d72c8c43b1f.jpg" group-title="YOLDA NE YİYORUZ?",YOLDA NE YİYORUZ? - 27. Sezon 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_233557&SecretKey=NtvApiSecret2014*
-#EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/190326d7-4b0e-4931-b5c5-4d72c8c43b1f.jpg" group-title="YOLDA NE YİYORUZ?",YOLDA NE YİYORUZ? - 27. Sezon 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_233557&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/190326d7-4b0e-4931-b5c5-4d72c8c43b1f.jpg" group-title="YOLDA NE YİYORUZ?",YOLDA NE YİYORUZ? - 27. Sezon 9. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=27&ReferenceId=EHD_233556&SecretKey=NtvApiSecret2014*
 #EXTINF:-1 tvg-logo="https://img-tlctv1.mncdn.com/mnresize/200/-/upload/files/190326d7-4b0e-4931-b5c5-4d72c8c43b1f.jpg" group-title="YOLDA NE YİYORUZ?",YOLDA NE YİYORUZ? - 27. Sezon 9. Bölüm
